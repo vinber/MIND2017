@@ -10,10 +10,11 @@
 OpenStreetMap met à disposition des cartes qui peuvent être intégrées sur un site Internet à travers le service en ligne CarteOSM, développé par Rodolphe Quiédeville. Le service en ligne, totalement dépendant d’OpenStreetMap, est gratuit et très simple à utiliser.
 
 ##Ingrédients##
--Un ordinateur, une souris, un clavier et un écran fonctionnel.
--Un accès à internet et un navigateur utilisable.
--Pour intégrer une carte à un site, il convient d’avoir un site internet.
--En général si vous consultez cette recette c’est que la plupart des ingrédients sont déjà présent.
+
+- Un ordinateur, une souris, un clavier et un écran fonctionnel.
+- Un accès à internet et un navigateur utilisable.
+- Pour intégrer une carte à un site, il convient d’avoir un site internet.
+- En général si vous consultez cette recette c’est que la plupart des ingrédients sont déjà présent.
 
 ##Etapes - Procédure##
 -Rendez vous sur le site [cartons](http://cartosm.eu/)
