@@ -22,15 +22,15 @@ Ingrédients - Ce dont nous avons besoin 
 ### Ajouter et paramétrer 
 
 - Cliquez sur l’onglet « Point » en haut à gauche.
-![Capture d'écran qui montre où trouver l'onglet "point"](img/Capture_point.png)
 - Placez le point à l’endroit où se trouve votre élément.
+![Capture d'écran qui montre où trouver l'onglet "point"](img/Capture_point.PNG)
 - Recherchez le type d’élément. Ici nous allons chercher l’élément « Arbre ».
-![Capture d'écran qui montre la fenêtre de choix d'élément](img/Capture_Capture_choix_element.png)
+![Capture d'écran qui montre la fenêtre de choix d'élément](img/Capture_choix_element.PNG)
 - Une fois choisis votre type d’élément vous pouvez rajouter des champs et des tags qui renseignent votre élément. Ici nous ne savons rien sur l’arbre mise à part son feuillage. Donc nous choisissons le feuillage « Feuilles ». 
-![Capture d'écran qui montre le choix des champs et tag](img/Capture_champs.png)
+![Capture d'écran qui montre le choix des champs et tag](img/Capture_champs.PNG)
 - Une fois les champs et les tags remplis cliquez sur l’onglet « Sauvegarder ».
 - Remplissez la case « Commentaires du groupe de modifications » en expliquant en quelques mots les modifications que vous avez réalisé.
-![Capture d'écran de la fenêtre sauvegarde](img/Capture_sauvegarde.png)
+![Capture d'écran de la fenêtre sauvegarde](img/Capture_sauvegarde.PNG)
 - Si vous n’êtes pas sûr des informations que vous avez ajoutées, vous pouvez cocher la case « Je souhaite que quelqu'un vérifie mes modifications ».
 - Finalement cliquez sur « envoyer ».
 	
