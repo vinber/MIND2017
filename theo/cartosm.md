@@ -1,12 +1,13 @@
-#Ajouter une carte OpenStreetMap sur un site internet grâce a CartOSM#
+# Ajouter une carte OpenStreetMap sur un site internet grâce a CartOSM
 
 **Niveau** : **Débutant**/Intermédiaire/Avancé/Expert
 **Auteur** : LP MIND
 **Date de maj** : 12/11/2017
 **Licence** : CC-BY
 
-##Principe##
-###OpenStreetMap met à disposition des cartes qui peuvent être intégrées sur un site Internet à travers le service en ligne CarteOSM, développé par Rodolphe Quiédeville. Le service en ligne, totalement dépendant d’OpenStreetMap, est gratuit et très simple à utiliser.###
+## Principe
+
+OpenStreetMap met à disposition des cartes qui peuvent être intégrées sur un site Internet à travers le service en ligne CarteOSM, développé par Rodolphe Quiédeville. Le service en ligne, totalement dépendant d’OpenStreetMap, est gratuit et très simple à utiliser.
 
 ##Ingrédients##
 -Un ordinateur, une souris, un clavier et un écran fonctionnel.
