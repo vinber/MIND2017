@@ -1,4 +1,4 @@
-#Créer un fichier epub à l’aide de Calibre
+# Créer un fichier epub à l’aide de Calibre
 
 
 **Niveau** : Débutant
@@ -10,13 +10,13 @@
 **Licence** : CC-bySA
 
 
-##Principes - Ce que nous allons faire
+## Principes - Ce que nous allons faire
 
 
 Créer un fichier epub en choisissant ses métadonnées à l’aide d’un fichier de livre électronique (pdf, mobi, epub…)
 
 
-##Ingrédients - Ce dont nous avons besoin
+## Ingrédients - Ce dont nous avons besoin
 
 
 Logiciel Calibre (gratuit, disponible pour Windows, Mac OS et Linux)
@@ -24,7 +24,7 @@ Logiciel Calibre (gratuit, disponible pour Windows, Mac OS et Linux)
 Document électronique (format de livre électronique ou pdf)
 
 
-##Étapes - Comment allons-nous procéder ?
+## Étapes - Comment allons-nous procéder ?
 
 
 Ouvrir Calibre.
@@ -92,7 +92,7 @@ Enfin, en validant, la conversion de votre fichier se lance automatiquement, ave
 Bonne lecture!
 
 
-##En savoir plus
+## En savoir plus
 
 
 [Aide de Calibre](https://calibre-ebook.com/fr/help)
