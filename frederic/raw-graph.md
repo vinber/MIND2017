@@ -22,7 +22,7 @@ Effectuer une représentation graphique des données avec Raw Graphs
 
 - Un jeu de données
 
-- Un tableur en local ou en ligne (Calc de Libre Office, Excel de MS Office, Google Sheets (Google Drive)
+- Un tableur en local ou en ligne (Calc de Libre Office, Excel de MS Office, Google Sheets de Google Drive)
 
 
 ## Etapes - Comment allons-nous procéder ? 
@@ -34,16 +34,16 @@ Aller sur le site de Raw Graphs dont voici le lien : [Raw Graph](http://app.rawg
 
 Sur la page d’accueil deux options sont proposées :
 
-Soit intégrer un jeu de données de son choix soit charger un jeu de données déjà pré-enregistré en utilisant la fonction Try our simples
+Soit intégrer un jeu de données de son choix soit charger un jeu de données déjà pré-enregistré en utilisant la fonction appelée Try our simples
 
 
 Il existe trois manières d’intégrer le jeu de données de son choix à l’application. 
 
-Pour utiliser la fonction paste. Copiez et collez le tableur dans le rectangle blanc dans lequel est inscrit la phrase « Paste your data here from other applications » 
+Pour utiliser la fonction appelée Paste. Copiez et collez le tableur dans le rectangle blanc dans lequel est inscrit la phrase « Paste your data here from other applications » 
 
 ![](image/2.png)
 
-Pour utiliser la fonction Upload a file. Cliquez sur le bouton Upload a file.
+Pour utiliser la fonction appelée Upload a file. Cliquez sur le bouton Upload a file.
 
 ![](image/3.png)
 
@@ -53,7 +53,7 @@ Une fois cette action effectuée. Cliquez dans le rectangle gris dans lequel est
 
 Une fois la boîte de dialogue ouverte, utilisez l'explorateur de fichiers afin de sélectionner le fichier désiré
 
-Pour utiliser la fonction From URL. Cliquez sur le bouton From URL. 
+Pour utiliser la fonction appelée From URL. Cliquez sur le bouton From URL. 
 
 Après cela copiez puis collez l'adresse URL du jeu de données.
 
@@ -71,18 +71,25 @@ Choisir le type de datavisualisation souhaité parmi les différents choix dispo
 ![](image/6.png)
 
 
-Pour représenter Movie, j’ai choisi une datavisualisation nommée Scatter Plot qui permet de représenter une dispersion. 
+Pour représenter Movie, j’ai choisi une datavisualisation nommée Scatter Plot qui permet de représenter un nuage de points. 
 
 Scatter Plot permet d'afficher la relation entre deux variables numériques d'une série ou de plusieurs séries.
-Le nuage de points peut être personnalisé par l'utilisateur. Il est possible d'attribuer des couleurs, des noms
+
 
 ![](image/7.png)
 
-Choisissez les différentes variables de votre jeu de données en fonction de vos préférences. Faites glisser les dans les rectangles blancs en fonction des paramètres souhaiter.
+Un nuage de points indique le degré de corrélation entre deux ou plusieurs variables liées. Chaque unité représente un point dans le nuage. Pour obtenir un nuage de points il est indispensable d'avoir au moins deux variables de valeurs numériques.
+L'une des variables verra ses valeurs représentées sur l'axe des abscisses appelé ( X Axis). L'autre variable verra ses valeurs représentées sur l'axe des ordonnées appelé (Y Axis).
+
+
+Choisissez les deux différentes variables de votre jeu de données à analyser en fonction des deux axes cités précédemment. 
+Faites glisser les rectangles verts reprennant l'intitulé des variables dans les rectangles blancs en fonction des paramètres souhaités. 
+Le nuage de points peut être personnalisé par l'utilisateur en attribuant une couleur, un nom ou une taille aux différents points.
+
 
 ![](image/8.png)
 
-Une fois ces paramètres définis le graphique désiré apparâit 
+Une fois ces paramètres définis le graphique désiré apparait 
 
 Redimensionner votre graphique en changer les paramètres grâce champs proposés sous la phrase "Customize your visualization"
 
@@ -90,7 +97,7 @@ Dans mon exemple Width permet de régler la largeur du graphique, Height sa haut
 
 ![](image/9.png)
 
-Une fois le graphique réalisé. 2 options sont possibles.
+Une fois le graphique réalisé, deux options sont possibles.
 
 Télécharger le grahique en fonction du fomat de fichier souhaité. 
 
